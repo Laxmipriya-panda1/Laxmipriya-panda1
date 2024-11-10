@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Laxmipriya-panda1
-- 👀 I’m interested in cooding
-- 🌱 I’m currently pursuing mca
+- 👋 Hi, I’m @Laxmipriya-panda1 .
+- 👀 I’m interested in cooding .
+- 🌱 I’m currently pursuing mca .
 - 💞️ I’m looking to collaborate on a software company.
 - 📫 How to reach me :- ind.laxmipriya@gmail.com
 
