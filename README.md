@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Laxmipriya-panda1 .
+- # This is my repository.
+-👋 Hi, I’m @Laxmipriya-panda1 .
 - 👀 I’m interested in cooding .
 - 🌱 I’m currently pursuing mca .
 - 💞️ I’m looking to collaborate on a software company.
